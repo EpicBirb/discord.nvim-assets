@@ -1,1 +1,8 @@
-{"include": ["default_file.svg"], "rename": {}}
+{
+	"include": [
+		"default_file.svg"
+	],
+	"rename": {
+		"file_type_js.svg": "file_type_javascript.webp"	
+	}
+}
