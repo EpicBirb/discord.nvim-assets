@@ -179,5 +179,6 @@ async def main():
         processingAmt.append(processed - lastProcessedAmt)
         lastProcessedAmt = processed
         await asyncio.sleep(1)
+    print()
 
 asyncio.run(main())
