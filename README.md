@@ -7,13 +7,15 @@ You can make a contribution by submitting a pull request.
 
 ## Build Localy
 
-prerequisites
+##### prerequisites
 1. go ahead and install the depedancies described in `pyproject.toml` (it's litterally just [python pillow](https://github.com/python-pillow/Pillow))
 2. have `inkscape` (cli) in the project directory, it should look like this (if you are on windows):
     - `inkscape/bin/inkscape.com`
 
     if your cli executable is not `inkscape.com`, use the `--inkscape <path>` flag on `convert.py` to manually provide the path to the inkscape cli
 3. also make sure you have git installed
+
+##### now
 
 then run the `fetch-icons.sh` script before running `convert.py` (you can use the `--help` flag on convert.py for additional options)
 
