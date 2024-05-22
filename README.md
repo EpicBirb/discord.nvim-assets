@@ -5,7 +5,7 @@ assets for https://github.com/EpicBirb/discord.nvim for those who want to use ic
 You can make a contribution by submitting a pull request.
     - I would probably expect image file names to be corrected.
 
-## Build Localy
+## Build Locally
 
 ##### prerequisites
 1. go ahead and install the depedancies described in `pyproject.toml` (it's litterally just [python pillow](https://github.com/python-pillow/Pillow))
